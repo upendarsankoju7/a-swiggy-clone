@@ -23,7 +23,7 @@ function Footer() {
                     <p>About</p>
                     <p>Careers</p>
                     <p>Team</p>
-                    <p>Swiggy One</p>
+                    <p>Swiggy Two</p>
                     <p>Swiggy Instamart</p>
                     <p>Swiggy Genie</p>
                 </div>
